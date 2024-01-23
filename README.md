@@ -1,6 +1,6 @@
 # Greetings! I'm José David López Cifuentes 👾
 
-## Crafting Worlds, Coding Adventures
+## Crafting Worlds, Coding Adventures | Game Developer | VR Enthusiast
 
 As a Multimedia Engineering student with a heart beating for game development, I've been blending art and algorithms to create immersive gaming experiences. My adventure through Unity, VR, and beyond has been a quest of endless learning and pushing the pixels beyond their limits.
 
@@ -10,20 +10,21 @@ As a Multimedia Engineering student with a heart beating for game development, I
 - 🚀 Currently mastering Unreal Engine to expand my development arsenal.
 - 💡 Enchanted by the art of video game storytelling and player engagement.
 
-## Skills Odyssey
-<!-- Icons for Unity, C#, VR -->
-![Unity]([Unity-Icon-URL](https://unity.com/es)) ![C#](Csharp-Icon-URL) ![VR](VR-Icon-URL)
+## Arsenal of Skills
+[![Unity](https://github.com/Jdloci05/Jdloci05/assets/78886868/3db835e9-b454-47c0-a2cd-38e91ecf3e41)](https://unity.com/)
+[![C#](Csharp-Icon-URL)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![VR](VR-Icon-URL)](https://www.vrs.org.uk/)
 
-## Guild Connections:
-<!-- Social icons for LinkedIn, GitHub -->
-![LinkedIn](LinkedIn-Icon-URL) ![GitHub](GitHub-Icon-URL)
+## Connect with Me
+[![LinkedIn](LinkedIn-Icon-URL)](https://www.linkedin.com/in/jose-lopez-490166172/)
+[![GitHub](GitHub-Icon-URL)](https://github.com/Jdloci05)
 
-## Scroll of Achievements
-<!-- Customized badges for your achievements -->
-![Achievement Badge](Achievement-Badge-URL)
+## Chronicles of Achievements
+<!-- Custom Badges -->
+![Achievements](Achievements-Badge-URL)
 
-## Tome of GitHub Deeds
-![Your GitHub Stats](Link to Your GitHub Stats Image)
+## GitHub Lore
+![GitHub Stats](GitHub-Stats-Image-URL)
 
-## Lexicon of Languages
-![Top Languages Card](Link to Your Top Languages Card)
+## Codex of Code
+![Top Languages](Top-Languages-Card-URL)

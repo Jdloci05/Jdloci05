@@ -11,7 +11,7 @@ As a Multimedia Engineering student with a heart beating for game development, I
 - 💡 Enchanted by the art of video game storytelling and player engagement.
 
 ## Arsenal of Skills
-[![Unity](https://github.com/Jdloci05/Jdloci05/assets/78886868/5237bb54-f03d-46b5-9331-15cf701938e9)](https://unity.com/)
+[![Unity](https://github.com/Jdloci05/Jdloci05/assets/78886868/bf304fa6-bfef-45c1-8676-00e1ab2db734)](https://unity.com/)
 [![C#](Csharp-Icon-URL)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![VR](VR-Icon-URL)](https://www.vrs.org.uk/)
 

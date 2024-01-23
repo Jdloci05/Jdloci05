@@ -23,8 +23,8 @@ As a Multimedia Engineering student with a heart beating for game development, I
 
 
 ## Connect with Me
-[![LinkedIn](LinkedIn-Icon-URL)](https://www.linkedin.com/in/jose-lopez-490166172/)
-[![GitHub](GitHub-Icon-URL)](https://github.com/Jdloci05)
+[![LinkedIn](https://github.com/Jdloci05/Jdloci05/assets/78886868/e8512e27-40a4-4701-b78a-984493737d45)](https://www.linkedin.com/in/jose-lopez-490166172/)
+[![GitHub](https://github.com/Jdloci05/Jdloci05/assets/78886868/2a1669ea-6018-428a-be59-42d6329182ac)](https://github.com/Jdloci05)
 
 ## Chronicles of Achievements
 <!-- Custom Badges -->

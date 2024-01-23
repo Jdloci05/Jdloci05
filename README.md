@@ -19,7 +19,7 @@ As a Multimedia Engineering student with a heart beating for game development, I
 [![Blender](https://github.com/Jdloci05/Jdloci05/assets/78886868/4dca4cc0-e3ba-43d1-9e12-82f6753b54d1)](https://www.blender.org/)
 [![After Effects](https://github.com/Jdloci05/Jdloci05/assets/78886868/d1425bfc-7a15-45b7-9022-e20065ede5c3)](https://www.adobe.com/products/aftereffects.html)
 [![Photoshop](https://github.com/Jdloci05/Jdloci05/assets/78886868/9f70a5d7-d628-4f46-b45f-3035e6974cec)](https://www.adobe.com/products/photoshop.html)
-[![Meta]([Meta-Icon-URL](https://github.com/Jdloci05/Jdloci05/assets/78886868/fc582a48-451d-4f50-a1bd-8a5a3f426755))](https://www.meta.com/)
+[![Meta](https://github.com/Jdloci05/Jdloci05/assets/78886868/fc582a48-451d-4f50-a1bd-8a5a3f426755)](https://www.meta.com/)
 
 
 ## Connect with Me

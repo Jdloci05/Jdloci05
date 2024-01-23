@@ -28,10 +28,10 @@ As a Multimedia Engineering student with a heart beating for game development, I
 
 ## Chronicles of Achievements
 <!-- Custom Badges -->
-![Achievements](Achievements-Badge-URL)
+![Achievements](https://github-readme-stats.vercel.app/api?username=Jdloci05&show_icons=true&count_private=true)
 
 ## GitHub Lore
-![GitHub Stats](GitHub-Stats-Image-URL)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jdloci05&show_icons=true)
 
 ## Codex of Code
-![Top Languages](Top-Languages-Card-URL)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdloci05&layout=compact)

@@ -1,4 +1,4 @@
-# Greetings! I'm José David López Cifuentes 👾
+# Hi! 👋 I'm José David López Cifuentes 👾
 
 ## Crafting Worlds, Coding Adventures | Game Developer | VR Enthusiast
 

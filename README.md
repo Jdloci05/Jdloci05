@@ -12,7 +12,7 @@ As a Multimedia Engineering student with a heart beating for game development, I
 
 ## Skills Odyssey
 <!-- Icons for Unity, C#, VR -->
-![Unity](Unity-Icon-URL) ![C#](Csharp-Icon-URL) ![VR](VR-Icon-URL)
+![Unity]([Unity-Icon-URL](https://unity.com/es)) ![C#](Csharp-Icon-URL) ![VR](VR-Icon-URL)
 
 ## Guild Connections:
 <!-- Social icons for LinkedIn, GitHub -->

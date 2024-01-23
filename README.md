@@ -1,6 +1,6 @@
 # Hi! 👋 I'm José David López Cifuentes 👾
 
-## | Game Developer | VR Enthusiast | Crafting Worlds | Coding Adventures 
+## Game Developer | VR Enthusiast | Crafting Worlds | Coding Adventures 
 
 As a Multimedia Engineering student with a heart beating for game development, I've been blending art and algorithms to create immersive gaming experiences. My adventure through Unity, VR, and beyond has been a quest of endless learning and pushing the pixels beyond their limits.
 

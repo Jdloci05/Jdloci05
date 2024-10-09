@@ -2,7 +2,7 @@
 
 ## Game Developer | VR Enthusiast | Crafting Worlds | Coding Adventures 
 
-As a Multimedia Engineering student with a heart beating for game development, I've been blending art and algorithms to create immersive gaming experiences. My adventure through Unity, VR, and beyond has been a quest of endless learning and pushing the pixels beyond their limits.
+As a Multimedia Engineering with a heart beating for game development, I've been blending art and algorithms to create immersive gaming experiences. My adventure through Unity, VR, and beyond has been a quest of endless learning and pushing the pixels beyond their limits.
 
 - 🌟 Crafting experiences in Jamundí, Valle del Cauca, Colombia.
 - 🎮 Dive into my gaming universe at https://portfolio-rho-opal-49.vercel.app/.

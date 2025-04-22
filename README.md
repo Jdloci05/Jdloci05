@@ -33,6 +33,7 @@ As a Multimedia Engineering passionate about bridging art and code, I’ve spent
 ## Connect with Me
 [![LinkedIn](https://github.com/Jdloci05/Jdloci05/assets/78886868/e8512e27-40a4-4701-b78a-984493737d45)](https://www.linkedin.com/in/jose-lopez-490166172/)
 [![GitHub](https://github.com/Jdloci05/Jdloci05/assets/78886868/2a1669ea-6018-428a-be59-42d6329182ac)](https://github.com/Jdloci05)
+<a href="https://www.behance.net/josedalopezc1"><img src="https://github.com/user-attachments/assets/12207055-4e92-427a-805e-ace0d9aa388d" width="48" alt="Behance" /> </a>
 
 ## Chronicles of Achievements
 <!-- Custom Badges -->

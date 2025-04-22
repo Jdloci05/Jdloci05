@@ -12,7 +12,6 @@ As a Multimedia Engineering passionate about bridging art and code, I’ve spent
 
 ## Arsenal of Skills
 [![Unity](https://github.com/Jdloci05/Jdloci05/assets/78886868/bf304fa6-bfef-45c1-8676-00e1ab2db734)](https://unity.com/)
-![pngfind com-unreal-engine-png-4337000](https://github.com/user-attachments/assets/beb70fe2-12e9-4fe0-abc6-1fcfd615c895)](https://www.unrealengine.com/)
 [![C#](https://github.com/Jdloci05/Jdloci05/assets/78886868/bab5d1ea-b1d7-4cc9-aa32-9bbd20d4e505)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Adobe Illustrator](https://github.com/Jdloci05/Jdloci05/assets/78886868/f5fb7284-402d-4d03-ab0d-2831c2476540)](https://www.adobe.com/products/illustrator.html)
 [![Blender](https://github.com/Jdloci05/Jdloci05/assets/78886868/4dca4cc0-e3ba-43d1-9e12-82f6753b54d1)](https://www.blender.org/)

@@ -2,7 +2,7 @@
 
 ## Technical Artist | Game Developer | Real-Time Graphics Explorer.
 
-As a Multimedia Engineering passionate about bridging art and code, I’ve spent the last years crafting immersive experiences through Unity and VR. Now, I’m diving deep into the world of shaders, VFX, and content pipelines to become a fully-fledged Technical Artist.
+Passionate about bridging art and code, I’ve spent the last years crafting immersive experiences through Unity and VR. Now, I’m diving deep into the world of shaders, VFX, and content pipelines to become a fully-fledged Technical Artist.
 
 - 🌟 Currently mastering Unreal Engine, Houdini, and Niagara.  
 - 🎮 Explore my worlds: https://portfolio-rho-opal-49.vercel.app/.

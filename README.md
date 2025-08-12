@@ -1,6 +1,6 @@
 # Hi! 👋 I'm José David López Cifuentes 👾
 
-## 🎮 CEO & Founder @Dreampulse Interactive| Games | Interactive Tech
+## 🎮 CEO & Founder @Dreampulse Interactive | Games | Interactive Tech
 
 Passionate about bridging art and code, I’ve spent the last years crafting immersive experiences through Unity and VR. Now, I’m diving deep into the world of shaders, VFX, and content pipelines to become a fully-fledged Technical Artist.
 

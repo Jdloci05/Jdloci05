@@ -51,7 +51,6 @@ While I’m the founder of **Dreampulse Interactive**, I remain fully hands-on a
 
 ### 🎞️ Visual & Supporting Tools
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/9f70a5d7-d628-4f46-b45f-3035e6974cec" width="48" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/products/aftereffects.html"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/d1425bfc-7a15-45b7-9022-e20065ede5c3" width="48" alt="After Effects" /></a>
 
 ---
 

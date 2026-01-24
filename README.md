@@ -1,14 +1,12 @@
-# Hi! 👋 I'm José David López Cifuentes 👾
+# Hi, I'm José David López 👋
 
-## 🎮 CEO & Founder @Dreampulse Interactive | Games | Interactive Tech
+## Gameplay & XR Developer | Real-Time Interactive Systems
 
-Passionate about bridging art and code, I’ve spent the last years crafting immersive experiences through Unity and VR. Now, I’m diving deep into the world of shaders, VFX, and content pipelines to become a fully-fledged Technical Artist.
+I’m a gameplay-focused developer with hands-on experience building and shipping interactive real-time applications, from early prototypes to production-ready builds.
 
-- 🌟 Currently mastering Unreal Engine, Houdini, and Niagara.  
-- 🎮 Explore my worlds: https://portfolio-rho-opal-49.vercel.app/.
-- 🌍 Based in Cali, Valle del Cauca, Colombia 
-- 💌 Let’s connect: jdloci05@gmail.com  
-- 💡 Enchanted by stylized visuals, interactive storytelling, and technical challenges that bring art to life.  
+My work centers on gameplay systems, real-time interaction, performance optimization, and clean, maintainable code—primarily using **Unity (C#)**, with growing experience in **Unreal Engine** and technical art workflows.
+
+I enjoy working at the intersection of **gameplay programming and technical art**, exploring shaders, VFX, and visual feedback to enhance player experience.
 
 ## Arsenal of Skills
 <a href="https://www.unrealengine.com/"><img src="https://github.com/user-attachments/assets/4e098f12-8f03-4170-a4c1-f5ec0c2c9196" width="48" alt="Unreal" /> </a>

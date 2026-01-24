@@ -29,8 +29,8 @@ While I’m the founder of **Dreampulse Interactive**, I remain fully hands-on a
 ## 🛠️ Arsenal of Skills
 
 ### 🎮 Engines & Programming
-<a href="https://www.unrealengine.com/"><img src="https://github.com/user-attachments/assets/4e098f12-8f03-4170-a4c1-f5ec0c2c9196" width="48" alt="Unreal Engine" /></a>
 <a href="https://unity.com/"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/bf304fa6-bfef-45c1-8676-00e1ab2db734" width="48" alt="Unity" /></a>
+<a href="https://www.unrealengine.com/"><img src="https://github.com/user-attachments/assets/4e098f12-8f03-4170-a4c1-f5ec0c2c9196" width="48" alt="Unreal Engine" /></a>
 <a href="https://www.meta.com/"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/fc582a48-451d-4f50-a1bd-8a5a3f426755" width="48" alt="Meta XR" /></a>
 <a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/"><img src="https://github.com/user-attachments/assets/28eb5809-05db-401c-b9f2-053746078320" width="42" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/bab5d1ea-b1d7-4cc9-aa32-9bbd20d4e505" width="42" alt="C#" /></a>
@@ -63,8 +63,6 @@ While I’m the founder of **Dreampulse Interactive**, I remain fully hands-on a
 ---
 
 ## 🔥 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jdloci05&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jdloci05&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 

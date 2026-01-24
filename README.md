@@ -57,7 +57,6 @@ While I’m the founder of **Dreampulse Interactive**, I remain fully hands-on a
 
 ## 🤝 Connect with Me
 <a href="https://www.linkedin.com/in/jos%C3%A9-l%C3%B3pez-490166172/"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/e8512e27-40a4-4701-b78a-984493737d45" width="48" alt="LinkedIn" /></a>
-<a href="https://github.com/Jdloci05"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/2a1669ea-6018-428a-be59-42d6329182ac" width="48" alt="GitHub" /></a>
 
 ---
 

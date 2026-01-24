@@ -8,6 +8,17 @@ My work centers on gameplay systems, real-time interaction, performance optimiza
 
 I enjoy working at the intersection of **gameplay programming and technical art**, exploring shaders, VFX, and visual feedback to enhance player experience.
 
+---
+
+## What I Do Best
+- Gameplay systems & mechanics
+- XR interactions (VR / AR / real-time experiences)
+- Performance optimization (profiling, memory, GC)
+- Technical ownership from prototype → production
+- Collaboration in cross-disciplinary teams
+
+---
+
 ## Arsenal of Skills
 <a href="https://www.unrealengine.com/"><img src="https://github.com/user-attachments/assets/4e098f12-8f03-4170-a4c1-f5ec0c2c9196" width="48" alt="Unreal" /> </a>
 [![Unity](https://github.com/Jdloci05/Jdloci05/assets/78886868/bf304fa6-bfef-45c1-8676-00e1ab2db734)](https://unity.com/)

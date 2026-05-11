@@ -42,9 +42,8 @@ My strongest shipped work is in Unity/C#, including Meta Quest titles, but I als
 <a href="https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/fc582a48-451d-4f50-a1bd-8a5a3f426755" width="48" alt="XR Interaction Toolkit" /></a>
 <a href="https://www.photonengine.com/"><img src="Photon Engine.png" width="48" alt="Photon Engine" /></a>
 <a href="https://git-scm.com/"><img src="social.png" width="48" alt="Git" /></a>
-<a href="https://about.gitea.com/"><img src="https://github.com/user-attachments/assets/ADD_GITEA_ICON_HERE" width="48" alt="Gitea" /></a>
-<a href="https://docs.unity3d.com/Manual/Profiler.html"><img src="https://github.com/user-attachments/assets/ADD_UNITY_PROFILER_ICON_HERE" width="48" alt="Unity Profiler" /></a>
-<a href="https://opencode.ai/"><img src="https://github.com/user-attachments/assets/ADD_OPENCODE_ICON_HERE" width="48" alt="opencode" /></a>
+<a href="https://about.gitea.com/"><img src="gitea.png" width="48" alt="Gitea" /></a>
+<a href="https://opencode.ai/"><img src="opencode-dark" width="48" alt="opencode" /></a>
 
 ---
 

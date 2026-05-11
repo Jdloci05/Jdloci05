@@ -1,28 +1,29 @@
 # Hi! 👋 I'm José David López Cifuentes 👾
 
-## 🎮 Game Developer | Gameplay & XR Systems | Technical Art–Oriented
+## 🎮 Game Developer / Game Programmer | Gameplay Systems · XR/VR · Multiplayer · Performance
 
-I’m a **game developer with hands-on experience building gameplay systems and real-time interactive applications**, from early prototypes to production-ready releases.
+I’m a **Game Developer / Game Programmer with strong Unity/C# production experience**, focused on gameplay systems, real-time interaction, XR/VR, multiplayer, performance, and player-facing features.
 
-My work sits at the intersection of **gameplay programming, XR development, and technical art**, with a strong focus on **clean architecture, performance, and technical ownership across the full development lifecycle**.
+I build **interactive systems from prototype to stable builds**, with a strong focus on clean architecture, responsiveness, debugging, optimization, and technical ownership.
 
-While I’m the founder of **Dreampulse Interactive**, I remain fully hands-on as a developer, contributing directly to gameplay systems, prototyping, optimization, and technical foundations.
+My strongest shipped work is in Unity/C#, including Meta Quest titles, but I also explore Unreal Engine 5, C++/Blueprints, AI-assisted workflows, and broader real-time game development fundamentals.
 
-- 🎮 Portfolio: [https://portfolio-rho-opal-49.vercel.app/](https://joselopez-dev.vercel.app/)
+- 🎮 Portfolio: [https://joselopez-dev.vercel.app/](https://joselopez-dev.vercel.app/)
 - 🌍 Based in Cali, Valle del Cauca, Colombia
 - 💌 Contact: jdloci05@gmail.com
-- 💡 Interested in gameplay systems, real-time interaction, stylized visuals, shaders, and player-focused technical solutions
+- 💡 Interested in gameplay systems, UI/tools, XR/VR, multiplayer, performance, technical review, and interactive experiences
 
 ---
 
 ## 🧠 What I Do
 
 - Design and implement **gameplay systems and mechanics**
-- Build **XR / real-time interactive experiences** (VR, AR, non-XR included)
-- Own technical features **from prototype to production**
-- Optimize performance (profiling, memory, GC, stability)
-- Collaborate in **cross-disciplinary teams** using Git-based workflows
-- Explore **technical art workflows** (shaders, VFX, content pipelines)
+- Build **XR/VR and real-time interactive experiences**
+- Own technical features **from prototype to stable builds**
+- Implement **UI flows, tools, feedback systems, and game feel improvements**
+- Work on **multiplayer foundations and gameplay state flow**
+- Optimize performance through **profiling, debugging, refactoring, and build stability**
+- Use **Git/Gitea and AI-assisted workflows** for planning, documentation, code review, and technical iteration
 
 ---
 

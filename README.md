@@ -51,10 +51,13 @@ My strongest shipped work is in Unity/C#, including Meta Quest titles, but I als
 
 ### 🎨 Visual, VFX & Supporting Tools
 <a href="https://www.blender.org/"><img src="https://github.com/user-attachments/assets/9f304067-9f06-4a12-9a71-967d693a15ed" width="52" alt="Blender" /></a>
-<a href="https://unity.com/features/shader-graph"><img src="https://github.com/user-attachments/assets/ADD_SHADER_GRAPH_ICON_HERE" width="48" alt="Shader Graph" /></a>
-<a href="https://unity.com/visual-effect-graph"><img src="https://github.com/user-attachments/assets/ADD_VFX_GRAPH_ICON_HERE" width="48" alt="VFX Graph" /></a>
-<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/creating-visual-effects-in-niagara-for-unreal-engine"><img src="https://github.com/user-attachments/assets/ADD_NIAGARA_ICON_HERE" width="48" alt="Niagara VFX" /></a>
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/9f70a5d7-d628-4f46-b45f-3035e6974cec" width="48" alt="Photoshop" /></a>
+<a href="https://www.blender.org/"><img src="https://github.com/user-attachments/assets/9f304067-9f06-4a12-9a71-967d693a15ed" width="52" alt="Blender" /></a> 
+<a href="https://www.autodesk.com/products/maya/overview"><img src="https://github.com/user-attachments/assets/2f62932f-70f4-4a22-a964-6337aac02a23" width="42" alt="Maya" /></a> 
+<a href="https://www.sidefx.com/"><img src="https://github.com/user-attachments/assets/65e0edd2-0fa7-4de3-b8f7-f5310fb4d47d" width="42" alt="Houdini" /></a> 
+<a href="https://jangafx.com/software/embergen"><img src="https://github.com/user-attachments/assets/65e86ba9-7512-452e-b38b-5d3d1b1147b5" width="38" alt="Embergen" /></a> 
+<a href="https://store.speedtree.com/"><img src="https://github.com/user-attachments/assets/6e1bf643-3203-41c2-a962-998fa4f4cec9" width="42" alt="SpeedTree" /></a> 
+<a href="https://www.adobe.com/products/substance3d/apps/designer.html"><img src="https://github.com/user-attachments/assets/414587bf-5d88-43f2-a84f-2c5a5c536cd3" width="48" alt="Substance Designer" /></a> 
+<a href="https://www.adobe.com/products/substance3d/apps/painter.html"><img src="https://github.com/user-attachments/assets/340c979f-fc72-445d-82c7-1a557253a76f" width="48" alt="Substance Painter" /></a>
 <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/d1425bfc-7a15-45b7-9022-e20065ede5c3" width="48" alt="After Effects" /></a>
 
 ---

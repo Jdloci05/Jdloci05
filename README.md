@@ -1,8 +1,8 @@
 # Hi! 👋 I'm José David López Cifuentes 👾
 
-## 🎮 Game Developer / Game Programmer | Gameplay Systems · XR/VR · Multiplayer · Performance
+## 🎮 Game Developer | Gameplay Systems · XR/VR · Multiplayer · Performance
 
-I’m a **Game Developer / Game Programmer with strong Unity/C# production experience**, focused on gameplay systems, real-time interaction, XR/VR, multiplayer, performance, and player-facing features.
+I’m a **Game Developer with strong Unity/C# production experience**, focused on gameplay systems, real-time interaction, XR/VR, multiplayer, performance, and player-facing features.
 
 I build **interactive systems from prototype to stable builds**, with a strong focus on clean architecture, responsiveness, debugging, optimization, and technical ownership.
 

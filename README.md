@@ -45,7 +45,7 @@ My strongest shipped work is in Unity/C#, including Meta Quest titles, but I als
 <a href="https://www.photonengine.com/"><img src="Photon Engine.png" width="48" alt="Photon Engine" /></a>
 <a href="https://git-scm.com/"><img src="social.png" width="48" alt="Git" /></a>
 <a href="https://about.gitea.com/"><img src="gitea.png" width="48" alt="Gitea" /></a>
-<a href="https://opencode.ai/"><img src="opencode-dark.png" width="48" alt="opencode" /></a>
+<a href="https://opencode.ai/"><img src="opencode-dark.png" width="38" alt="opencode" /></a>
 
 ---
 

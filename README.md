@@ -51,7 +51,6 @@ My strongest shipped work is in Unity/C#, including Meta Quest titles, but I als
 
 ### 🎨 Visual, VFX & Supporting Tools
 <a href="https://www.blender.org/"><img src="https://github.com/user-attachments/assets/9f304067-9f06-4a12-9a71-967d693a15ed" width="52" alt="Blender" /></a>
-<a href="https://www.blender.org/"><img src="https://github.com/user-attachments/assets/9f304067-9f06-4a12-9a71-967d693a15ed" width="52" alt="Blender" /></a> 
 <a href="https://www.autodesk.com/products/maya/overview"><img src="https://github.com/user-attachments/assets/2f62932f-70f4-4a22-a964-6337aac02a23" width="42" alt="Maya" /></a> 
 <a href="https://www.sidefx.com/"><img src="https://github.com/user-attachments/assets/65e0edd2-0fa7-4de3-b8f7-f5310fb4d47d" width="42" alt="Houdini" /></a> 
 <a href="https://jangafx.com/software/embergen"><img src="https://github.com/user-attachments/assets/65e86ba9-7512-452e-b38b-5d3d1b1147b5" width="38" alt="Embergen" /></a> 

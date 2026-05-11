@@ -33,19 +33,19 @@ My strongest shipped work is in Unity/C#, including Meta Quest titles, but I als
 <a href="https://unity.com/"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/bf304fa6-bfef-45c1-8676-00e1ab2db734" width="48" alt="Unity" /></a>
 <a href="https://www.unrealengine.com/"><img src="https://github.com/user-attachments/assets/4e098f12-8f03-4170-a4c1-f5ec0c2c9196" width="48" alt="Unreal Engine" /></a>
 <a href="https://godotengine.org/"><img src="Godot Engine.png" width="48" alt="Godot Engine" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/bab5d1ea-b1d7-4cc9-aa32-9bbd20d4e505" width="42" alt="C#" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/bab5d1ea-b1d7-4cc9-aa32-9bbd20d4e505" width="48" alt="C#" /></a>
 <a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/"><img src="https://github.com/user-attachments/assets/28eb5809-05db-401c-b9f2-053746078320" width="42" alt="C++" /></a>
-<a href="https://www.java.com/"><img src="Java.png" width="44" alt="Java" /></a>
+<a href="https://www.java.com/"><img src="Java.png" width="74" alt="Java" /></a>
 <a href="https://www.python.org/"><img src="https://github.com/user-attachments/assets/a37f3b25-b2f4-471f-9d61-a51b91afc89f" width="48" alt="Python" /></a>
 
 ---
 
 ### 🧩 Gameplay, XR & Production Tools
 <a href="https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest"><img src="https://github.com/Jdloci05/Jdloci05/assets/78886868/fc582a48-451d-4f50-a1bd-8a5a3f426755" width="48" alt="XR Interaction Toolkit" /></a>
+<a href="https://opencode.ai/"><img src="opencode-dark.png" width="32" alt="opencode" /></a>
 <a href="https://git-scm.com/"><img src="social.png" width="44" alt="Git" /></a>
 <a href="https://about.gitea.com/"><img src="gitea.png" width="64" alt="Gitea" /></a>
-<a href="https://opencode.ai/"><img src="opencode-dark.png" width="36" alt="opencode" /></a>
-<a href="https://www.photonengine.com/"><img src="Photon Engine.png" width="48" alt="Photon Engine"/></a>
+<a href="https://www.photonengine.com/"><img src="Photon Engine.png" width="150" alt="Photon Engine"/></a>
 
 ---
 
